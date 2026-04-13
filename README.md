@@ -37,12 +37,12 @@
 pip install openai
 ```
 
-## 非加密版
+## 运行非加密版
 ```bash
 python main.py
 ```
 
-## 加密版
+## 运行加密版
 ```bash
 python main-encryption.py
 ```
@@ -60,10 +60,10 @@ make_build_enc.bat
 Windows 编译前请确保 pip 可用！编译后请在 dist 目录里找到 exe 文件！
 
 ## 安全说明
-非加密版：API Key 明文存储在 API.SAF
-加密版：API Key 字节加密存储在 API.SEP
-明文仅临时存放在系统临时目录，读取完毕后立即删除
-密钥仅存在本地，不会上传
+- 非加密版：API Key 明文存储在 API.SAF
+- 加密版：API Key 字节加密存储在 API.SEP
+- 明文仅临时存放在系统临时目录，读取完毕后立即删除
+- 密钥仅存在本地，不会上传
 
 ## 密钥获取
 敬请前往：https://platform.deepseek.com/
