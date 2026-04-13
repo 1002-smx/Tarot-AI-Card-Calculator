@@ -6,6 +6,8 @@
 ！！！本工具仅供娱乐参考，不构成任何现实生活、情感、工作、投资等方面的建议。
 所有解牌内容由 AI 生成，开发者不承担任何责任。
 
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?logo=github)](https://github.com/1002-smx/Tarot-AI-Card-Calculator/releases/latest)
+
 ## 功能特性
 - 完整 78 张塔罗牌库，自动随机抽牌并识别正逆位
 - 情感抽 5 张，事业抽 6 张，今日运势抽 3 张，自定义问题抽 6 张
