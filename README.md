@@ -26,6 +26,12 @@
 - API.SEP                    - 加密版密钥文件
 - README.md                  - 说明文档
 
+## 使用前
+本项目依赖openai模块，安装openai
+```bash
+pip install openai
+```
+
 ## 非加密版
 ```bash
 python main.py
