@@ -1,4 +1,3 @@
-# Python 编译文件
 __pycache__/
 *.py[cod]
 *$py.class
@@ -8,16 +7,13 @@ env/
 venv/
 ENV/
 
-# PyInstaller 编译输出
 build/
 dist/
 *.spec
 
-# 密钥文件（绝对不能上传！）
 API.SAF
 API.SEP
 
-# 系统文件
 .DS_Store
 Thumbs.db
 *.log
