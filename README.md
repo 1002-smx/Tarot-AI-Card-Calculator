@@ -52,3 +52,6 @@ Windows 编译前请确保 pip 可用！编译后请在 dist 目录里找到 exe
 加密版：API Key 字节加密存储在 API.SEP
 明文仅临时存放在系统临时目录，读取完毕后立即删除
 密钥仅存在本地，不会上传
+
+## 密钥获取
+敬请前往：https://platform.deepseek.com/
