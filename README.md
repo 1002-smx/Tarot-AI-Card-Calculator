@@ -32,7 +32,7 @@
 - 加密文件如丢失或损坏，可重新打开非加密版生成的SAF文件找回密钥
 
 ## 使用前
-本项目依赖openai模块，安装openai
+本项目依赖openai模块，请先安装openai模块
 ```bash
 pip install openai
 ```
